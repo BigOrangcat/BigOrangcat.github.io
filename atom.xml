@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alogrithm.github.io</id>
+    <id>https://BigOrangcat.github.io</id>
     <title>Gridea</title>
-    <updated>2021-02-28T07:06:10.775Z</updated>
+    <updated>2021-02-28T07:26:29.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://alogrithm.github.io"/>
-    <link rel="self" href="https://alogrithm.github.io/atom.xml"/>
+    <link rel="alternate" href="https://BigOrangcat.github.io"/>
+    <link rel="self" href="https://BigOrangcat.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://alogrithm.github.io/images/avatar.png</logo>
-    <icon>https://alogrithm.github.io/favicon.ico</icon>
+    <logo>https://BigOrangcat.github.io/images/avatar.png</logo>
+    <icon>https://BigOrangcat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://alogrithm.github.io/post/hello-gridea/</id>
-        <link href="https://alogrithm.github.io/post/hello-gridea/">
+        <id>https://BigOrangcat.github.io/post/hello-gridea/</id>
+        <link href="https://BigOrangcat.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
